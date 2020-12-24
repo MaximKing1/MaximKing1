@@ -7,4 +7,4 @@ Pronouns:
 
 Active Projects:
 > Strider Discord Bot
-> Botrix Bot List
+>Botrix Bot List
