@@ -10,6 +10,6 @@ Pronouns:
 
 Active Projects:
 > Strider Discord Bot<br>
-> Botrix Bot List
-> Tritan Bot<br>
+> Botrix Bot List<br>
+> Tritan Bot - Retired<br>
 > HackTheBox Machine - Excited?? 💻
