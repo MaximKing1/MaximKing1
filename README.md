@@ -11,5 +11,5 @@ Pronouns:
 Active Projects:
 > Strider Discord Bot<br>
 > Botrix Bot List<br>
-> Tritan Bot - Retired<br>
+> InfinityBotList - Official Bot List Documentation Writer!<br>
 > HackTheBox Machine - Excited?? 💻
