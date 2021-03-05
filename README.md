@@ -22,3 +22,7 @@
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=BLWebhooks&theme=react)](https://github.com/MaximKing1/BLWebhooks)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=Hacking-Stuff&theme=react)](https://maximking1.github.io/Hacking-Stuff/)<br>
+
+## About Me:
+
+My names Maxim King, I'm from the UK and work on some big projects mostly on Discord. My bot Strider is my biggest project that I have leaded and now in 450 servers also I work on InfinityBotList and Retired Developer for Tritan Bot!
