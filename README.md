@@ -19,6 +19,10 @@
 
 ---
 
+![Wakatime Stats](https://github-stats-three.vercel.app/api/wakatime?username=MaximKing1&theme=dark&custom_title=Weekly+Stats)
+
+---
+
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=BLWebhooks&theme=react)](https://github.com/MaximKing1/BLWebhooks)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=Jarvis&theme=react)](https://maximking1.github.io/Hacking-Stuff/)<br>
