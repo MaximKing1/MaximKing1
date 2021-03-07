@@ -6,6 +6,7 @@
 class MaximKing extends Life {
   constructor(Coder) {
     super(Coder);
+     pronouns: ["he", "him"],
      working_on: ["Strider", "InfinityBotList"],
      languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
      learning: ["React", "VUE", "Python"]
