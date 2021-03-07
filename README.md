@@ -3,6 +3,8 @@
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ```js
+const Developer = require("Developer");
+
 class MaximKing extends Developer = {
   constructor(Coder) {
     super(Coder);
