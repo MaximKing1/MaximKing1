@@ -12,6 +12,10 @@ class MaximKing extends Developer = {
      learning: ["React", "VUE", "Python"]
    }
   technologies: {
+    projects: {
+      discordbot: ["Strider"],
+      packages: ["BLWebhooks", "Jarvis.djs"]
+    },
     frontend: {
       libraries: ["React", "Express", "VUE"],
       css: ["CSS", "Bootstrap", "SCSS"]
