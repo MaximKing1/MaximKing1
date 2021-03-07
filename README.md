@@ -3,7 +3,7 @@
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ```js
-class MaximKing extends Developer {
+class MaximKing extends Developer = {
   constructor(Coder) {
     super(Coder);
      pronouns: ["he", "him"],
@@ -22,8 +22,8 @@ class MaximKing extends Developer {
       rust: ["rocket"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
-  }
-}
+  },
+};
 ```
 
 ---
