@@ -13,7 +13,7 @@ class MaximKing extends Developer = {
      languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
      learning: ["React", "VUE", "Python"]
    }
-  technologies: {
+  async technologies: {
     projects: {
       discordbot: ["Strider"],
       packages: ["BLWebhooks", "Jarvis.djs"]
