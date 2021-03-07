@@ -3,7 +3,7 @@
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ```js
-class MaximKing extends Life {
+class MaximKing extends Developer {
   constructor(Coder) {
     super(Coder);
      pronouns: ["he", "him"],
@@ -16,6 +16,7 @@ class MaximKing extends Life {
       libraries: ["React", "Express", "VUE"],
       css: ["CSS", "Bootstrap", "SCSS"]
     },
+    devOps: ["Docker", "Nginx", "Apache", "Lightspeed", "Azure"],
     backend: {
       js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
       rust: ["rocket"]
