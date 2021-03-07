@@ -2,6 +2,28 @@
 
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
+```js
+class MaximKing extends Life {
+  constructor(Coder) {
+    super(Coder);
+     working_on: ["Strider", "InfinityBotList"],
+     languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
+     learning: ["React", "VUE", "Python"]
+   }
+  technologies: {
+    frontend: {
+      libraries: ["React", "Express", "VUE"],
+      css: ["CSS", "Bootstrap", "SCSS"]
+    },
+    backend: {
+      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
+      rust: ["rocket"]
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
+  }
+}
+```
+
 ---
 
 ## GitHub Statistics
@@ -25,7 +47,7 @@
 
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=BLWebhooks&theme=react)](https://github.com/MaximKing1/BLWebhooks)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JarvisDJS&repo=Jarvis&theme=react)](https://github.com/JarvisDJS/Jarvis)<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=Jarvis&theme=react)](https://maximking1.github.io/Hacking-Stuff/)<br>
 
 ## About Me:
 
