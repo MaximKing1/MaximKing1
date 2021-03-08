@@ -15,7 +15,7 @@ class MaximKing extends Developer = {
    }
   async technologies: {
     projects: {
-      discordbot: ["Strider"],
+      discordbot: ["Strider", "Infinity Bots Manager"],
       packages: ["BLWebhooks", "Jarvis.djs"]
     },
     frontend: {
