@@ -25,7 +25,7 @@ class MaximKing extends Developer = {
     devOps: ["Docker", "Nginx", "Apache", "Lightspeed", "Azure"],
     backend: {
       js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
-      rust: ["rocket"]
+      rust: ["Rocket"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
   },
