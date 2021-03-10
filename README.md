@@ -6,8 +6,8 @@
 const Developer = require("Developer");
 
 class MaximKing extends Developer = {
-  constructor(Coder) {
-    super(Coder);
+  constructor(coder, options={life: "calm"}) {
+    super(coder);
      pronouns: ["he", "him"],
      working_on: ["Strider", "InfinityBotList"],
      languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
