@@ -4,9 +4,10 @@
 
 ```js
 const Developer = require("Developer");
+const stressed = new Issue();
 
 class MaximKing extends Developer = {
-  constructor(coder, options={life: "calm"}) {
+  constructor(coder, options={ life: stressed }) {
     super(coder);
      pronouns: ["he", "him"],
      working_on: ["Strider", "InfinityBotList"],
