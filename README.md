@@ -7,26 +7,25 @@ const Developer = require("Developer");
 const stressed = new Issue();
 
 class MaximKing extends Developer = {
-  constructor(coder, options={ life: stressed }) {
+  constructor(coder, options={ life: relaxed, job: working }) {
     super(coder);
      pronouns: ["he", "him"],
-     working_on: ["Strider", "InfinityBotList"],
+     working_on: ["Strider", "Secret"],
      languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
-     learning: ["React", "VUE", "Python"]
+     learning: ["VUE", "Nuxt.js"]
    }
   async technologies: {
     projects: {
-      discordbot: ["Strider", "Infinity Bots Manager"],
+      discordbot: ["Strider"],
       packages: ["BLWebhooks", "Jarvis.djs"]
     },
     frontend: {
       libraries: ["React", "Express", "VUE"],
       css: ["CSS", "Bootstrap", "SCSS"]
     },
-    devOps: ["Docker", "Nginx", "Apache", "Lightspeed", "Azure"],
+    devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
     backend: {
-      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
-      rust: ["Rocket"]
+      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
   },
