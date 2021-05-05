@@ -31,6 +31,13 @@ class MaximKing extends Developer = {
   },
 };
 ```
+---
+
+## What I Manage:
+* Strider Bot - Founder
+* MKComputing (https://mkcomputing.uk) - Founder
+* DracBytes Development Team (Coming Soon) - Founder
+* Infinitybotlist (https://infinitybotlist.com) - Co Owner
 
 ---
 
