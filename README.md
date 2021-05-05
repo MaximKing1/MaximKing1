@@ -10,9 +10,9 @@ class MaximKing extends Developer = {
   constructor(coder, options={ life: relaxed, job: working }) {
     super(coder);
      pronouns: ["he", "him"],
-     working_on: ["Strider", "Secret"],
-     languages: ["Typescript", "Node.js", "React", "HTML", "CSS"],
-     learning: ["VUE", "Nuxt.js"]
+     working_on: ["Strider", "MKComputing", "InfinityBotList"],
+     languages: ["Typescript", "Node.js", "HTML", "CSS"],
+     learning: ["VUE", "Nuxt.js", "Laravel"]
    }
   async technologies: {
     projects: {
