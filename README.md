@@ -7,7 +7,7 @@ const Developer = require("Developer");
 const stressed = new Issue();
 
 class MaximKing extends Developer = {
-  constructor(coder, options={ life: relaxed, job: working }) {
+  constructor(coder, options={ life: relaxed, job: Backend Developer }) {
     super(coder);
      pronouns: ["he", "him"],
      working_on: ["Strider", "MKComputing", "InfinityBotList"],
@@ -20,12 +20,13 @@ class MaximKing extends Developer = {
       packages: ["BLWebhooks", "Jarvis.djs"]
     },
     frontend: {
-      libraries: ["React", "Express", "VUE"],
+      libraries: ["Nuxt.js", "VUE"],
       css: ["CSS", "Bootstrap", "SCSS"]
     },
     devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
     backend: {
-      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"]
+      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
+      php: ["Laravel", "PHP8"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
   },
