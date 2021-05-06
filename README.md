@@ -54,10 +54,10 @@ class MaximKing extends Developer = {
   </summary>
   <p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaximKing1&count_private=true&show_icons=true&theme=react" alt="MaximKing" height="200"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximKing1&hide=lua&theme=react" alt="Maxim's github stats"/>
 <img align="center" src"https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximking1&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:5px"/>
 <div><img src="https://github-profile-trophy.vercel.app/?username=MaximKing1&theme=react" width="1200"></div>
-  </p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximKing1&hide_border=true&theme=tokyonight" alt="MaximKing1" />
+ </p>
 </details>
 
 ---
