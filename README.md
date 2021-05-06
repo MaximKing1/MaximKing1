@@ -42,6 +42,11 @@ class MaximKing extends Developer = {
 
 ---
 
+## Learning Profiles
+* Laracasts - https://laracasts.com/@MaximKing1
+
+---
+
 ## GitHub Statistics
 <details>
   <summary>
