@@ -12,7 +12,7 @@ class MaximKing extends Developer = {
      pronouns: ["he", "him"],
      working_on: ["Strider", "MKComputing", "InfinityBotList"],
      languages: ["Typescript", "Node.js", "HTML", "CSS"],
-     learning: ["VUE", "Nuxt.js", "Laravel"]
+     learning: ["VUE", "Nuxt.js", "Laravel", "Next.js"]
    }
   async technologies: {
     projects: {
@@ -26,7 +26,7 @@ class MaximKing extends Developer = {
     devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
     backend: {
       js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
-      php: ["Laravel", "PHP8"]
+      php: ["Laravel", "PHP"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
   },
