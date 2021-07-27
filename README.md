@@ -1,13 +1,13 @@
-# I'm Maxim 👋
+# Hey, I'm Maxim 👋
 
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ```js
 const Developer = require("Developer");
-const stressed = new Issue();
+const relaxed = new Song();
 
 class MaximKing extends Developer = {
-  constructor(coder, options={ life: relaxed, job: Backend Developer }) {
+  constructor(coder, options={ life: relaxed, job: "Backend Developer" }) {
     super(coder);
      pronouns: ["he", "him"],
      working_on: ["Strider", "MKComputing", "InfinityBotList"],
@@ -25,7 +25,7 @@ class MaximKing extends Developer = {
     },
     devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
     backend: {
-      js: ["Express.js", "Discord.js", "Node.js", "TypeScript"],
+      js: ["Express.js", "Discord.js", "Node.js", "TypeScript", "Next.js"],
       php: ["Laravel", "PHP"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
@@ -36,9 +36,9 @@ class MaximKing extends Developer = {
 
 ## What I Manage:
 * Strider Bot - Founder
-* MKComputing (https://mkcomputing.uk) - Founder
-* DracBytes Development Team (Coming Soon) - Founder
-* Infinitybotlist (https://infinitybotlist.com) - Co Owner
+* MKComputing (https://www.mkcomputing.uk) - Founder
+* DracBytes Development Team (Coming Soon) - Shut Down
+* Infinitybotlist (https://infinitybotlist.com) - Retired (Co Owner Of InfinityBotList)
 
 ---
 
@@ -64,8 +64,9 @@ class MaximKing extends Developer = {
 
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=BLWebhooks&theme=react)](https://github.com/MaximKing1/BLWebhooks)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=Jarvis&theme=react)](https://maximking1.github.io/Hacking-Stuff/)<br>
 
-## About Me:
-
-My names Maxim King, I'm from the UK and work on some big projects mostly on Discord. My bot Strider is my biggest project that I have leaded and now in 450 servers also I work on InfinityBotList and Retired Developer for Tritan Bot!
+<p align="center">
+  <a href="https://discord.com/users/713632188863610911">
+    <img src="https://lanyard-profile-readme.vercel.app/api/713632188863610911" alt="Discord Profile"/>
+  </a>
+</p>
