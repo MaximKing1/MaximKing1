@@ -65,8 +65,6 @@ class MaximKing extends Developer = {
 ## My Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maximking1&repo=BLWebhooks&theme=react)](https://github.com/MaximKing1/BLWebhooks)<br>
 
-<p align="center">
   <a href="https://discord.com/users/713632188863610911">
-    <img src="https://lanyard-profile-readme.vercel.app/api/713632188863610911" alt="Discord Profile"/>
+    <img src="" alt="Discord Profile"/>
   </a>
-</p>
