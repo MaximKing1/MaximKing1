@@ -2,12 +2,6 @@
 
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
-<p align="left">
-  <a href="https://discord.com/users/713632188863610911">
-    <img src="https://lanyard-profile-readme.vercel.app/api/713632188863610911" alt="Discord Profile"/>
-  </a>
-</p>
-
 ```js
 const Developer = require("Developer");
 const relaxed = new Song();
