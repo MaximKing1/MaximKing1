@@ -4,15 +4,16 @@
 
 ```js
 const Developer = require("Developer");
-const relaxed = new Song();
+const Work = new New(Job, { "PHP", "Laravel" }, 10);
 
 class MaximKing extends Developer = {
-  constructor(coder, options={ life: relaxed, job: "Backend Developer" }) {
-    super(coder);
+  constructor(Developer, options={ life: Work, job: "Development Leadership" }) {
+    super(Developer);
      pronouns: ["he", "him"],
-     working_on: ["Strider", "MKComputing", "InfinityBotList"],
+     working_on: ["Strider", "MKComputing", "Tritan"],
+     retired_projects: ["InfinityBotList", "DracBytesDev"],
      languages: ["Typescript", "Node.js", "HTML", "CSS"],
-     learning: ["VUE", "Nuxt.js", "Laravel", "Next.js"]
+     learning: ["PHP", "Nuxt.js", "Laravel", "Next.js"]
    }
   async technologies: {
     projects: {
@@ -21,12 +22,14 @@ class MaximKing extends Developer = {
     },
     frontend: {
       libraries: ["Nuxt.js", "VUE"],
-      css: ["CSS", "Bootstrap", "SCSS"]
+      css: ["CSS", "Bootstrap", "SCSS"],
+      icons: ["Fontawesome", "feather_icons"]
     },
     devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
     backend: {
-      js: ["Express.js", "Discord.js", "Node.js", "TypeScript", "Next.js"],
-      php: ["Laravel", "PHP"]
+      js: ["Express.js", "discord.js", "Nodejs", "TypeScript", "Next.js"],
+      php: ["Laravel"],
+      python: ["python2", "python3"]
     },
     databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
   },
