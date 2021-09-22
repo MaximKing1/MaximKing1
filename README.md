@@ -60,7 +60,6 @@ class MaximKing extends Developer = {
 <img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm" />
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=Mongodb" />
 <img src="https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows" />
-<img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino" />
   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma" />
 <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=Discord" />
 </p>
