@@ -12,8 +12,8 @@ class MaximKing extends Developer = {
   constructor(Developer, options={ life: Work, job: "Development Leadership" }) {
     super(Developer);
      pronouns: ["he", "him"],
-     working_on: ["Strider", "MKComputing", "Tritan"],
-     retired_projects: ["InfinityBotList", "DracBytesDev"],
+     working_on: ["Strider", "MKComputing"],
+     retired_projects: ["InfinityBotList", "DracBytesDev", "Tritan"],
      languages: ["Typescript", "Node.js", "HTML", "CSS"],
      learning: ["PHP", "Nuxt.js", "Laravel", "Next.js"]
    }
