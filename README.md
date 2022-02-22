@@ -2,6 +2,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N44X5FX)
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/MaximKing19/my-stack)
+
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ```js
