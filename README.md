@@ -9,7 +9,7 @@
 
 ```js
 const Developer = require("Developer");
-const Work = new New(Job, { "PHP", "Laravel" }, 10);
+const Work = new Job(Developer, { "Node.js", "Laravel" }, 5);
 
 class MaximKing extends Developer = {
   constructor(Developer, options={ life: Work, job: "Development Leadership" }) {
