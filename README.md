@@ -24,4 +24,38 @@
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f46a.svg" height="25em"> Follower
 <img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-follower.svg">
 
+```js
+const Developer = require("Developer");
+const Work = new Job(Developer, { "Node.js", "Laravel" }, 5);
+
+class MaximKing extends Developer = {
+  constructor(Developer, options={ life: Work, job: "Development Leadership" }) {
+    super(Developer);
+     pronouns: ["he", "him"],
+     working_on: ["Strider", "MKComputing"],
+     retired_projects: ["InfinityBotList", "DracBytesDev", "Tritan"],
+     languages: ["Typescript", "Node.js", "HTML", "CSS"],
+     learning: ["PHP", "Nuxt.js", "Laravel", "Next.js"]
+   }
+  async technologies: {
+    projects: {
+      discordbot: ["Strider"],
+      packages: ["BLWebhooks", "Jarvis.djs"]
+    },
+    frontend: {
+      libraries: ["Nuxt.js", "VUE"],
+      css: ["CSS", "Bootstrap", "SCSS"],
+      icons: ["Fontawesome", "feather_icons"]
+    },
+    devOps: ["Docker", "Nginx", "Apache", "OpenLightspeed", "Azure"],
+    backend: {
+      js: ["Express.js", "discord.js", "Nodejs", "TypeScript", "Next.js"],
+      php: ["Laravel"],
+      python: ["python2", "python3"]
+    },
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
+  },
+};
+```
+
 ---
