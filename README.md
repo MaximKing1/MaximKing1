@@ -9,20 +9,20 @@
 *I'm the owner of <a href="https://top.gg/bot/765088908773818378">Strider</a> a Discord bot and <a href="https://www.npmjs.com/package/blwebhooks">BLWebhooks</a> a JavaScript package for discord bots.*
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" height="30em"> Statistics
-{%- await embed(`stats-base`, {base:"activity, community, repositories, metadata"}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-base.svg">
 
-{%- await embed(`stats-commits-iso`, {isocalendar: true, isocalendar_duration:"half-year"}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-commits-iso.svg">
 
-{%- await embed(`stats-issues-prs`, {plugin_followup: true, followup_sections:"repositories, user"}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-issues-prs.svg">
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg" height="25em"> Recently starred
-{%- await embed(`stats-stars`, {stars: true, stars_limit: 5}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-stars.svg">
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f5c2.svg" height="25em"> Most used languages
-{%- await embed(`stats-languages`, {languages: true, languages_analysis_timeout: 15, languages_categories:"markup, programming", languages_colors:"github", languages_details:"percentage", languages_ignored:"shell, hack", languages_limit: 8, languages_recent_categories:"markup, programming", languages_recent_days: 14, languages_recent_load: 300, languages_sections:"most-used", languages_threshold:"0%"}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-languages.svg">
 
 ### <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f46a.svg" height="25em"> Follower
-{%- await embed(`stats-follower`, {people: true, people_limit: 24, people_size: 28, people_types:"followers"}) %}
+<img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-follower.svg">
 
 ```js
 const Developer = require("Developer");
@@ -59,4 +59,3 @@ class MaximKing extends Developer = {
 ```
 
 ---
-
