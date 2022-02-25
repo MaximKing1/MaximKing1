@@ -13,7 +13,7 @@ jobs:
     name: Generate image for GitHub Stats
     runs-on: ubuntu-latest
     steps:
-    - uses: lowlighter/metrics@v3.20
+    - uses: lowlighter/metrics@latest
       with:
         token: ${{ secrets.METRICS_TOKEN }}
         
@@ -24,7 +24,7 @@ jobs:
         markdown_cache: '.cache'
         
         base: activity, community, repositories, metadata
-        config_timezone: Europe/Zurich
+        config_timezone: Europe/London
         #
         # List discussion stats
         plugin_discussions: yes
