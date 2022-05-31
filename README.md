@@ -8,7 +8,10 @@ Hey, I'm Maxim King a Professional Node.js Backend Developer. I mainly focus on 
 
 ```js
 const dev[maximKing] = new Set[{
-    languages: new Set["Javascript", "Typescript", "Docker", "Python" ],
+    languages: 
+          new Set["Javascript", "Typescript", "Docker", "Python"],
+    skills:
+          new Set["JS"],
 }]
 ```
 
