@@ -6,6 +6,13 @@
 
 Hey, I'm Maxim King a Professional Node.js Backend Developer. I mainly focus on Protect or open source projects in my spare time when I'm not working.
 
+```js
+const dev[maximKing] = new Set[{
+    skills: new Set["hs"],
+}]
+```
+
+
 ---
 
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" height="30em"> Statistics
