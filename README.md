@@ -8,6 +8,8 @@ Hey, I'm Maxim King a Professional Node.js Backend Developer. I mainly focus on 
 
 ---
 
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=maximking1" />
+
 ## <img alt="emoji" src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4ca.svg" height="30em"> Statistics
 <img src="https://github.com/MaximKing1/MaximKing1/blob/main/.cache/stats-base.svg">
 
