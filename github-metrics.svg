@@ -3298,7 +3298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rigdev/rig</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The DevEx &amp; Application-layer for your Internal Developer Platform ⛵</div>
@@ -3729,7 +3729,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 140k out of 231m repositories</span>
+                                    <span class="gh">ranked 140k out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 333 stars</div>
                             </div>
@@ -3891,7 +3891,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.65m out of 231m repositories</span>
+                                    <span class="gh">ranked 3.65m out of 230m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -4047,7 +4047,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Nov 2024, 22:20:00 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Nov 2024, 23:20:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
