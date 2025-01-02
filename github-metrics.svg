@@ -2761,7 +2761,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>t3-oss/create-t3-app</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The best way to start a full-stack, typesafe Next.js app</div>
@@ -3293,7 +3293,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 142k out of 233m repositories</span>
+                                    <span class="gh">ranked 142k out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 333 stars</div>
                             </div>
@@ -3376,7 +3376,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 737k out of 152m users</span>
+                                    <span class="gh">ranked 736k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 22 users</div>
                             </div>
@@ -3455,7 +3455,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.67m out of 233m repositories</span>
+                                    <span class="gh">ranked 3.67m out of 232m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3611,7 +3611,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2025, 06:29:48 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2025, 07:19:54 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
